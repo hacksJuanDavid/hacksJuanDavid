@@ -25,14 +25,14 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 ### Backend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-AdonisJS-220052?style=flat" alt="AdonisJS">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/-AdonisJS-220052?style=flat&logoWidth=40" alt="AdonisJS">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoWidth=40" alt="C#">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=40" alt="C++">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&logoWidth=40" alt="Go">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=40" alt="Python">
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&logoWidth=40" alt="Rust">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&logoWidth=40" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=40" alt="Jupyter">
 </p>
 
 ### Frontend
