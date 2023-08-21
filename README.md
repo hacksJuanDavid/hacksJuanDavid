@@ -39,6 +39,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="HTML5" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/react/react-original.svg" alt="React" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
