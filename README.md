@@ -64,7 +64,7 @@ Otro proyecto importante con una breve descripción y posiblemente una imagen de
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=HacksJuanDa&show_icons=true&count_private=true&hide=contribs)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=hacksJuanDavid&show_icons=true&count_private=true&hide=contribs)
 
 ## Contacto
 
