@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy hacksJuanDavid! 👋
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a por [tus intereses o áreas de enfoque] y disfruto trabajando en proyectos relacionados con [temas específicos]. Aquí encontrarás una variedad de repositorios en los que he estado trabajando. ¡Siéntete libre de explorar!
 
@@ -29,6 +29,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
   <!-- Agrega más íconos de tecnologías aquí -->
 </p>
 
@@ -43,7 +44,7 @@ Otro proyecto importante con una breve descripción y posiblemente una imagen de
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&count_private=true&hide=contribs)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=hacksJuanDavid&show_icons=true&count_private=true&hide=contribs)
 
 ## Contacto
 
