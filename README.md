@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" alt="GIF de Bienvenida" />
 </p>
 
+## Bienvenido
+
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado por el mundo de las tecnologias informaticas y disfruto trabajando en proyectos relacionados con la inteligencia artificial, ciencia de datos, servicios web, paginas web, plugins, videojuegos, blockchain, seguridad, servidores, servicios, databases y entre otros. Aquí encontrarás una variedad de repositorios en los que he estado trabajando. ¡Siéntete libre de explorar!
 
 ## Sobre mí
