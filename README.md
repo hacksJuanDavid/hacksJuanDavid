@@ -24,6 +24,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
 ### Frontend
