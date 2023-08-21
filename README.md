@@ -44,6 +44,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/react/react-original.svg" alt="React" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/babel/babel-original.svg" alt="Tailwind CSS" width="40" />
 </p>
 
 ### Bases de Datos
