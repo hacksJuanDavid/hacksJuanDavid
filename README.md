@@ -69,7 +69,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudiocode/visualstudiocode-plain.svg" alt="Visual Studio Code" width="40" />
+  <img src="[https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudiocode/visualstudiocode-plain.svg](https://github.com/devicons/devicon/blob/master/iconsv)" alt="Visual Studio Code" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/rider/rider-plain.svg" alt="Rider" width="40" />
 </p>
 
