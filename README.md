@@ -1,6 +1,8 @@
 # ¡Hola, soy hacksJuanDavid! 👋
 
-![GIF de Bienvenida](https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" alt="GIF de Bienvenida" />
+</p>
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a por [tus intereses o áreas de enfoque] y disfruto trabajando en proyectos relacionados con [temas específicos]. Aquí encontrarás una variedad de repositorios en los que he estado trabajando. ¡Siéntete libre de explorar!
 
