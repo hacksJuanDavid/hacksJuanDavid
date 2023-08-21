@@ -73,7 +73,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/rider/rider-plain.svg" alt="Rider" width="40" />
+  <img src="[https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/rider/rider-plain.svg](https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png)" alt="Rider" width="40" />
 </p>
 
 ## Proyectos Destacados
