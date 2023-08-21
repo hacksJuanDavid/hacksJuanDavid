@@ -53,13 +53,11 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/redis/redis-original.svg" alt="Redis" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="40" />
 </p>
 
 ### Testing
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jest/jest-plain.svg" alt="Jest" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/selenium/selenium-original.svg" alt="Selenium" width="40" />
 </p>
 
 ### Contenedores y deploy
