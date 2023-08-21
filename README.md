@@ -10,7 +10,9 @@
 
 ## Sobre mí
 
+- 🎓 Estudio ingeniería de sistemas en la Universidad de San Buenaventura, en Cali, Colombia
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo tecnologico de chatbots y inteligencia artificial en la web.
+- 🤔 Explorar nuevas tecnologías y desarrollar soluciones de software.
 - 🌱 Estoy aprendiendo tecnologias para inteligencia artificial, modelos y mejores practicas para escribir codigo limpio ademas de que estoy terminando mi carrera profesional como Ingeniero de Sistemas.
 - 💬 Puedes preguntarme sobre de tu interes respecto a tecnologias de informaticas o si tienes algun proyecto en mente con gusto te doy una accesoria.
 - 📫 Cómo contactarme: josuacoty000@gmail.com.
@@ -50,6 +52,25 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/redis/redis-original.svg" alt="Redis" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQLite" width="40" />
+</p>
+
+### Testing
+
+
+### Contenedores y deploy
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" width="40" />
+</p>
+
+### IDE 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudiocode/visualstudiocode-plain.svg" alt="Visual Studio Code" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/rider/rider-plain.svg" alt="Rider" width="40" />
 </p>
 
 ## Proyectos Destacados
