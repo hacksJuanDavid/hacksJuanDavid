@@ -49,7 +49,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQLite" width="40" />
 </p>
 
 ## Proyectos Destacados
