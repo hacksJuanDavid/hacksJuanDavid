@@ -57,7 +57,11 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 </p>
 
 ### Testing
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jest/jest-plain.svg" alt="Jest" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/cypress/cypress-original.svg" alt="Cypress" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/selenium/selenium-original.svg" alt="Selenium" width="40" />
+</p>
 
 ### Contenedores y deploy
 
