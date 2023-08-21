@@ -1,6 +1,17 @@
 # ¡Hola, soy hacksJuanDavid! 👋
 
+![GIF de Bienvenida]([URL_DEL_GIF](https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif))
+
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a por [tus intereses o áreas de enfoque] y disfruto trabajando en proyectos relacionados con [temas específicos]. Aquí encontrarás una variedad de repositorios en los que he estado trabajando. ¡Siéntete libre de explorar!
+
+## Redes Sociales
+
+<p align="left">
+  <a href="URL_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="URL_WHATSAPP"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="URL_TELEGRAM"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ## Sobre mí
 
