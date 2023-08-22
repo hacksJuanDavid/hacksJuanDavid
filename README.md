@@ -14,7 +14,7 @@
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo tecnologico de chatbots y inteligencia artificial en la web.
 - 🤔 Explorar nuevas tecnologías y desarrollar soluciones de software.
 - 🌱 Estoy aprendiendo tecnologias para inteligencia artificial, modelos y mejores practicas para escribir codigo limpio ademas de que estoy terminando mi carrera profesional como Ingeniero de Sistemas.
-- 💬 Puedes preguntarme sobre de tu interes respecto a tecnologias de informaticas o si tienes algun proyecto en mente con gusto te doy una accesoria.
+- 💬 Puedes preguntarme sobre de tu interes respecto a tecnologias de la informacion o si tienes algun proyecto en mente con gusto te doy una accesoria.
 - 📫 Cómo contactarme: josuacoty000@gmail.com.
 - 😄 Pronombres: "Aqui pensando en que poner".
 - ⚡ Dato curioso: Soy un ingeniero versatil, productivo, proactivo, autosuficiente, aprendizaje rapido y muy amigable.
