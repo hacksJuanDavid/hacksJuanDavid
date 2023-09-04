@@ -11,7 +11,7 @@
 ## Sobre mí
 
 - 🎓 Estudio ingeniería de sistemas en la Universidad de San Buenaventura, en Cali, Colombia
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo tecnologico de chatbots y inteligencia artificial en la web.
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo tecnologico de chatbots e inteligencia artificial en la web.
 - 🤔 Explorar nuevas tecnologías y desarrollar soluciones de software.
 - 🌱 Estoy aprendiendo tecnologias para inteligencia artificial, modelos y mejores practicas para escribir codigo limpio ademas de que estoy terminando mi carrera profesional como Ingeniero de Sistemas.
 - 💬 Puedes preguntarme sobre de tu interes respecto a tecnologias de la informacion o si tienes algun proyecto en mente con gusto te doy una accesoria.
