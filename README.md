@@ -20,6 +20,16 @@
 - ⚡ Dato curioso: Soy un ingeniero versatil, productivo, proactivo, autosuficiente, aprendizaje rapido y muy amigable.
 - 🍁 Perfil profesional: FullStack Developer.
 
+## Arquitecturas
+
+Tengo en cuenta las siguientes:
+1. Clean code
+2. Monolitic
+3. Packages
+4. Arquitecture clean
+5. Arquitecture modules
+6. Arquitecture hexagonal
+   
 ## Tecnologías
 
 Aquí hay algunas de las tecnologías con las que trabajo:
