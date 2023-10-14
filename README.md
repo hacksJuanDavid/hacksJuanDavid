@@ -25,10 +25,11 @@
 Tengo en cuenta las siguientes:
 1. Clean code
 2. Monolitic
-3. Packages
-4. Arquitecture clean
-5. Arquitecture modules
-6. Arquitecture hexagonal
+3. Microservices
+4. Packages
+5. Arquitecture clean
+6. Arquitecture modules
+7. Arquitecture hexagonal
    
 ## Tecnologías
 
