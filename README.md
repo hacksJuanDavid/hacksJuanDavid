@@ -43,6 +43,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/rust/rust-plain.svg" alt="Rust" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
 </p>
 
 ### Frontend
@@ -56,6 +57,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/babel/babel-original.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
 </p>
 
 ### Bases de Datos
