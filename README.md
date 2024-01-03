@@ -117,7 +117,7 @@ Otro proyecto importante con una breve descripción y posiblemente una imagen de
 
 ## Year 2023 contribution
 <p align="center">
-  <img src=" https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Year2023" width="100%" />
+  <img src=" https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Year2023"/>
 </p>
 
 ## Contacto
