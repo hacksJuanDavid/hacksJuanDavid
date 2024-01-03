@@ -117,7 +117,7 @@ Otro proyecto importante con una breve descripción y posiblemente una imagen de
 
 ## Year 2023 contribution
 <p align="center">
-  <img src="[https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg](https://cdn.discordapp.com/attachments/1091487908407554178/1192237471585550407/hacksJuanDavid.png?ex=65a858ab&is=6595e3ab&hm=a2a51996c89c6b2e4c47d97794e800666120f29b2ea6796645f2de99bbafcb1c&)" alt="Year2023" width="100%" />
+  <img src=" https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Year2023" width="100%" />
 </p>
 
 ## Contacto
