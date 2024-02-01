@@ -94,9 +94,9 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/render/render-original.svg" alt="Render" width="40" />
+  <img src="https://seeklogo.com/images/R/render-logo-818C47ACCA-seeklogo.com.png" alt="Render" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/azure/azure-original.svg" alt="Azure" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vercel/vercel-original.svg" alt="Vercel" width="40" />
+  <img src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png" alt="Vercel" width="40" />
 </p>
 
 ### IDE 
