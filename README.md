@@ -136,6 +136,7 @@ Contactame por medio:
 
 <style>
   .image-container {
-    background-color: #ffffff; 
+    background-color: #ffffff;
+    display: inline-block;
   }
 </style>
