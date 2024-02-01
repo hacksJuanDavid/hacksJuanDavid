@@ -133,10 +133,3 @@ Contactame por medio:
 </p>
 
 ¡Gracias por visitar mi perfil!
-
-<style>
-  .image-container {
-    background-color: #ffffff;
-    display: inline-block;
-  }
-</style>
