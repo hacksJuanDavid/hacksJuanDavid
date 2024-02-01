@@ -54,7 +54,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="express" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="express" width="40" class="image-container" />
 </p>
 
 ### Frontend
@@ -134,3 +134,8 @@ Contactame por medio:
 
 ¡Gracias por visitar mi perfil!
 
+<style>
+  .image-container {
+    background-color: #ffffff; 
+  }
+</style>
