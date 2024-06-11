@@ -116,7 +116,7 @@ Breve descripción del proyecto y su propósito. Puedes agregar una imagen o un 
 Otro proyecto importante con una breve descripción y posiblemente una imagen demostrativa.
 
 ## Estadísticas de GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacksjuandavid)](https://github.com/hacksjuandavid/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacksjuandavid&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacksjuandavid&theme=highcontrast)](https://git.io/streak-stats)
 
