@@ -122,6 +122,8 @@ Otro proyecto importante con una breve descripción y posiblemente una imagen de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacksjuandavid&hide=javascript,html)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hacksjuandavid)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Year 2023 contribution
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1091487908407554178/1192237471585550407/hacksJuanDavid.png?ex=65a858ab&is=6595e3ab&hm=a2a51996c89c6b2e4c47d97794e800666120f29b2ea6796645f2de99bbafcb1c&=&format=webp&quality=lossless&width=959&height=614" alt="Year2023" width="400"/>
