@@ -120,9 +120,7 @@ Otro proyecto importante con una breve descripción y posiblemente una imagen de
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacksjuandavid&theme=highcontrast)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacksjuandavid&hide=javascript,html)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hacksjuandavid)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacksjuandavid&hide_progress=true)
 
 ## Year 2023 contribution
 <p align="center">
