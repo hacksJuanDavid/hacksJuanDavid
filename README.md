@@ -116,12 +116,11 @@ Breve descripción del proyecto y su propósito. Puedes agregar una imagen o un 
 Otro proyecto importante con una breve descripción y posiblemente una imagen demostrativa.
 
 ## Estadísticas de GitHub
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacksjuandavid)](https://github.com/hacksjuandavid/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hacksJuanDavid=anuraghazra&show_icons=true&theme=transparent)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacksjuandavid&theme=highcontrast)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacksJuanDavid&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hacksJuanDavid=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hacksjuandavid=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Year 2023 contribution
 <p align="center">
