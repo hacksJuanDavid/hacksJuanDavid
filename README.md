@@ -117,7 +117,7 @@ Otro proyecto importante con una breve descripción y posiblemente una imagen de
 
 ## Estadísticas de GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacksJuanDavid&show_icons=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hacksJuanDavid=anuraghazra&show_icons=true&theme=transparent)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacksJuanDavid&theme=highcontrast)](https://git.io/streak-stats)
 
