@@ -18,7 +18,7 @@
 - 📫 Cómo contactarme: josuacoty000@gmail.com.
 - 😄 Pronombres: "Aqui pensando en que poner".
 - ⚡ Dato curioso: Soy un ingeniero versatil, productivo, proactivo, autosuficiente, aprendizaje rapido y muy amigable.
-- 🍁 Perfil profesional: FullStack Developer.
+- 🍁 Perfil profesional: FullStack Developer, Software Engineer
 
 ## Desarrollo
 Tengo en cuenta las siguientes:
