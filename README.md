@@ -109,11 +109,11 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto 1](enlace al repositorio)
-Breve descripción del proyecto y su propósito. Puedes agregar una imagen o un GIF también.
+### [Code Build Education](https://code-build-education-front-end.vercel.app/en )
+Es el proyecto de tesis de grado que consta de una plataforma de educacion para el lenguaje de programacion python con el objetivo de ayudar a las personas a aprender intuitivamente y facilmente con el apoyo de inteligencia artificial,analisis de codigos,recomendaciones,analsis de tipos de datos y seguridad al respecto de los algoritmos que estan construyendo los usuarios.
 
-### [Nombre del Proyecto 2](enlace al repositorio)
-Otro proyecto importante con una breve descripción y posiblemente una imagen demostrativa.
+### [Store Cards](https://storecardsproject.onrender.com/)
+Es un proyecto en el cual consta de una tienda de cartas relacionas con el mundo de los tcg para ayudar a presentar un catalogo de productos y administrarlos facilmente mediante el sistema de inventario que esta implementado.
 
 ## Estadísticas de GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacksjuandavid&show_icons=true&theme=dark)
