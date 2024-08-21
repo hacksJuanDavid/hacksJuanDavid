@@ -110,10 +110,25 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 ## Proyectos Destacados
 
 ### [Code Build Education](https://code-build-education-front-end.vercel.app/en )
-Es el proyecto de tesis de grado que consta de una plataforma de educacion para el lenguaje de programacion python con el objetivo de ayudar a las personas a aprender intuitivamente y facilmente con el apoyo de inteligencia artificial,analisis de codigos,recomendaciones,analsis de tipos de datos y seguridad al respecto de los algoritmos que estan construyendo los usuarios.
+## Realizado con NextJS,Python,NodeJs,MongoDB,Tailwindcss,DaisyUI
+Es el proyecto de tesis de grado que consta de una plataforma de educacion para el lenguaje de programacion python con el objetivo de ayudar a las personas a aprender intuitivamente y facilmente con el apoyo de inteligencia artificial,analisis de codigos,recomendaciones,analsis de tipos de datos y seguridad al respecto de los algoritmos que estan construyendo los usuarios. 
 
 ### [Store Cards](https://storecardsproject.onrender.com/)
-Es un proyecto en el cual consta de una tienda de cartas relacionas con el mundo de los tcg para ayudar a presentar un catalogo de productos y administrarlos facilmente mediante el sistema de inventario que esta implementado.
+## Realizado con Django,Python,Postgresql,Html,Tailwindcss
+Es un proyecto en el cual consta de una tienda de cartas relacionas con el mundo de los tcg para ayudar a presentar un catalogo de productos y administrarlos facilmente mediante el sistema de inventario que esta implementado. 
+
+### [Inter Munic Connect](https://inter-muni-connect-frontend.vercel.app/home)
+## Realizado con Ionic,ReactJS,NodeJS,MongoDB,CSS
+Es un proyecto consta con la emulacion de un sistema de ventas de tiquetes para viajes intermunicipales en las regiones, genera tiquetes, verifica tiquetes,tienen la capacidad de crear usaurios de tipo conductor y pasajero los cuales interactuan de diferente manera en el sistema, el sistema tiene la capacidad de generar rutas y mostrarlas en mapas para cada viaje, ademas de agregar el pasajero al viaje correspondiente creado por el conductor, por otra parte es un sistema hibrido que se puede usar en dispositivos Androi,IOS y web.
+
+### [Landing Tesla](https://landing-tesla-nine.vercel.app/)
+## Realizado con AstroJS,Javascript,Tailwindcss
+Es una landing page teniendo algo de similitud a la de tesla no es exactamente igual, la finalidad es mostrar que Astro es una excelente herramienta para crear sitios web enfocados en el contenido.
+
+### [Minimalist Portfolio Json](https://minimalist-portfolio-json-peach.vercel.app/)
+## Realizado con AstroJS,Javascript,CSS
+Es una pagina en la cual expongo mis habilidades en desarrollo de software y hablo un poco sobre mi y mis experiencias trabajando como desarrollador full stack, esta pagina cuenta con unas funcionalidad de impresion de el portafolio.
+
 
 ## Estadísticas de GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacksjuandavid&show_icons=true&theme=dark)
