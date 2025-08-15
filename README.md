@@ -1,162 +1,259 @@
-# ¡Hola, soy hacksJuanDavid Ingeniero de Sistemas! 👋
+<!-- Profile README for hacksJuanDavid | English, polished version -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" alt="GIF de Bienvenida" />
+<div align="center">
+
+# Hi, I'm **Juan David** — a Systems Engineer & Full‑Stack Developer 👋
+
+<img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" alt="Welcome GIF" width="640" />
+
+[![Profile visitors](https://komarev.com/ghpvc/?username=hacksjuandavid&color=blueviolet&style=for-the-badge)](https://github.com/hacksjuandavid)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-Yes-success?style=for-the-badge)](#contact)
+[![Location](https://img.shields.io/badge/Location-Cali%2C%20Colombia-1f425f?style=for-the-badge)](#)
+
+</div>
+
+---
+
+## About me
+
+- 🎓 Systems Engineer from **Universidad de San Buenaventura** (Cali, Colombia).
+- 🔭 Currently building **AI‑powered web apps and chatbots** end‑to‑end.
+- 💡 I love exploring new technologies and turning ideas into production‑ready software.
+- 🌱 Deepening skills in **AI/ML, LLMs, RAG**, and **clean code** practices.
+- 🤝 Friendly, versatile, proactive, resilient, and a fast learner.
+- ✍️ Pronouns: _TBD—still figuring out the best way to express them._
+- 🍁 Professional focus: **Full‑Stack Developer** · **Software Engineer**.
+
+### What I’m learning & using right now
+
+- **Architectures**: microservices, modular monolith, hexagonal, clean architecture, event‑driven systems.
+- **Optimizatio & Performance**: microservices, caching, load balancing, observability.
+- **AI & ML**: LLMs, RAG, retrieval augments, prompt engineering, automated workflows, vector search, pipelines, evaluation.
+- **Data & DevOps**: CI/CD with Jenkins & GitLab, PM2 for Node services, Conda environments, containerization, observability.
+
+---
+
+## What I do
+
+I design and ship **web apps, APIs, data services, and integrations**. From MVPs to scalable platforms, I care about developer experience, maintainability, and measurable impact.
+
+- **APIs & Backends**: REST/GraphQL, async workers, queues, observability.
+- **Frontends**: React/Next.js, design systems, accessibility, testing.
+- **Data & AI**: pipelines, vector search, retrieval‑augmented generation, evaluation.
+- **DevOps**: CI/CD, cloud infra, containers, IaC, environment automation.
+
+---
+
+## Tech Stack
+
+<div align="center">
+<!-- Extra alternated GIF to add some variety -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="640" />
+</div>
+
+### ☁️ Cloud & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="38" />
+  <img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" width="38" />
+  <img src="https://cdn.simpleicons.org/vercel/000/fff" alt="Vercel" width="38" />
+  <img src="https://cdn.simpleicons.org/heroku/000/fff" alt="Heroku" width="38" />
+  <img src="https://cdn.simpleicons.org/railway/000/fff" alt="Railway" width="38" />
+  <img src="https://cdn.simpleicons.org/render/000/fff" alt="Render" width="38" />
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="38" />
+  <img src="https://cdn.simpleicons.org/google" alt="Google" width="38" />
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="38" />
 </p>
 
-## Bienvenido
+### 🔑 Security & Authentication
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado por el mundo de las tecnologias informaticas y disfruto trabajando en proyectos relacionados con la inteligencia artificial, ciencia de datos, servicios web, paginas web, plugins, videojuegos, blockchain, seguridad, servidores, servicios, databases y entre otros. Aquí encontrarás una variedad de repositorios en los que he estado trabajando. ¡Siéntete libre de explorar!
-
-## Sobre mí
-
-- 🎓 Estudio ingeniería de sistemas en la Universidad de San Buenaventura, en Cali, Colombia
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo tecnologico de chatbots e inteligencia artificial en la web.
-- 🤔 Explorar nuevas tecnologías y desarrollar soluciones de software.
-- 🌱 Estoy aprendiendo tecnologias para inteligencia artificial, modelos y mejores practicas para escribir codigo limpio ademas de que estoy terminando mi carrera profesional como Ingeniero de Sistemas.
-- 💬 Puedes preguntarme sobre de tu interes respecto a tecnologias de la informacion o si tienes algun proyecto en mente con gusto te doy una acesoria.
-- 📫 Cómo contactarme: josuacoty000@gmail.com.
-- 😄 Pronombres: "Aqui pensando en que poner".
-- ⚡ Dato curioso: Soy un ingeniero versatil, productivo, proactivo, autosuficiente, aprendizaje rapido y muy amigable.
-- 🍁 Perfil profesional: FullStack Developer, Software Engineer
-
-## Desarrollo
-Tengo en cuenta las siguientes:
-1. APIs
-2. Frontends
-3. Backends
-4. Databases
-5. Web Apps
-
-## Arquitecturas
-
-Tengo en cuenta las siguientes:
-1. Clean code
-2. Monolitic
-3. Microservices
-4. Packages
-5. Arquitecture clean
-6. Arquitecture modules
-7. Arquitecture hexagonal
-8. Components
-   
-## Tecnologías
-
-Aquí hay algunas de las tecnologías con las que trabajo:
-
-### Backend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/go/go-original.svg" alt="Go" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/rust/rust-plain.svg" alt="Rust" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="express" width="40" class="image-container" />
+<p>
+  <img src="https://cdn.simpleicons.org/auth0" alt="Auth0" width="38" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000/fff" alt="JWT" width="38" />
 </p>
 
-### Frontend
+### 🧠 Backend & AI
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/redux/redux-original.svg" alt="Redux" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/babel/babel-original.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/ionic/ionic-original.svg" alt="ionic" width="40" />
+<p>
+  <img src="https://cdn.simpleicons.org/gnubash" alt="Bash" width="38" />
+  <img src="https://cdn.simpleicons.org/go" alt="Go" width="38" />
+  <img src="https://cdn.simpleicons.org/cplusplus" alt="C++" width="38" />
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="38" />
+  <img src="https://cdn.simpleicons.org/rust/000/fff" alt="Rust" width="38" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="38" />
+  <img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="38" />
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="38" />
+  <img src="https://cdn.simpleicons.org/.net" alt=".NET" width="38" />
+  <img src="https://cdn.simpleicons.org/adonisjs" alt="Adonis.js" width="38" />
+  <img src="https://cdn.simpleicons.org/express/000/fff" alt="Express" width="38" />
+  <img src="https://cdn.simpleicons.org/django" alt="Django" width="38" />
+  <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="38" />
+  <img src="https://cdn.simpleicons.org/nestjs" alt="Nest.js" width="38" />
+  <img src="https://cdn.simpleicons.org/prisma/000/fff" alt="Prisma" width="38" />
+  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="38" />
+  <img src="https://cdn.simpleicons.org/ollama/000/fff" alt="Ollama" width="38" />
+  <img src="https://cdn.simpleicons.org/openai/000/fff" alt="OpenAI" width="38" />
+  <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" width="38" />
+  <img src="https://cdn.simpleicons.org/keras" alt="Keras" width="38" />
+  <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="38" />
+  <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="38" />
+  <img src="https://cdn.simpleicons.org/plotly" alt="Plotly" width="38" />
+  <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="38" />
+  <img src="https://cdn.simpleicons.org/json/000/fff" alt="JSON" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="38"/>
 </p>
 
-### Bases de Datos
+### 🎨 Frontend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/redis/redis-original.svg" alt="Redis" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="40" />
+<p>
+  <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="38" />
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="38" />
+  <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="38" />
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="38" />
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="38" />
+  <img src="https://cdn.simpleicons.org/blazor" alt="Blazor" width="38" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="38" />
+  <img src="https://cdn.simpleicons.org/redux" alt="Redux" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="Zustand" width="38" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000/fff" alt="Next.js" width="38" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="38" />
+  <img src="https://cdn.simpleicons.org/threedotjs/000/fff" alt="Three.js" width="38" />
+  <img src="https://cdn.simpleicons.org/babel" alt="Babel" width="38" />
+  <img src="https://cdn.simpleicons.org/ionic" alt="Ionic" width="38" />
+  <img src="https://cdn.simpleicons.org/astro" alt="Astro" width="38" />
+  <img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" width="38" />
+  <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="38" />
+  <img src="https://cdn.simpleicons.org/angular/000/fff" alt="Angular" width="38" />
 </p>
 
-### Testing
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jest/jest-plain.svg" alt="Jest" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" alt="Selenium" width="40" />
+### 🗄️ Databases & Storage
+
+<p>
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="38" />
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="38" />
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="38" />
+  <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="38" />
+  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="38" />
+  <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="38" />
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="38" />
+  <img src="https://cdn.simpleicons.org/milvus" alt="Milvus" width="38" />
 </p>
 
-### Contenedores y deploy
+### ✅ Testing & QA
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://seeklogo.com/images/R/render-logo-818C47ACCA-seeklogo.com.png" alt="Render" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/azure/azure-original.svg" alt="Azure" width="40" />
-  <img src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png" alt="Vercel" width="40" />
+<p>
+  <img src="https://cdn.simpleicons.org/jest" alt="Jest" width="38" />
+  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" width="38" />
+  <img src="https://cdn.simpleicons.org/cypress" alt="Cypress" width="38" />
+  <img src="https://cdn.simpleicons.org/mocha" alt="Mocha" width="38" />
+  <img src="https://cdn.simpleicons.org/pytest" alt="Pytest" width="38" />
+  <img src="https://cdn.simpleicons.org/k6" alt="k6" width="38" />
+  <img src="https://cdn.simpleicons.org/junit5" alt="JUnit 5" width="38" />
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="38" />
+  <img src="https://cdn.simpleicons.org/sonarqubeforide" alt="SonarQube" width="38" />
+  <img src="https://cdn.simpleicons.org/sonarqubeserver" alt="SonarQube" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="38"/>
+  <img src="https://cdn.simpleicons.org/cucumber" alt="Cucumber" width="38" />
+  <img src="https://cdn.simpleicons.org/eslint" alt="ESLint" width="38" />
 </p>
 
-### IDE 
+### 📦 Containers & Infra
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" />
-  <img src="https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png" alt="Rider" width="40" />
+<p>
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="38" />
+  <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" width="38" />
+  <img src="https://cdn.simpleicons.org/nginx" alt="NGINX" width="38" />
+  <img src="https://cdn.simpleicons.org/yaml" alt="YAML" width="38" />
 </p>
 
-## Proyectos Destacados
+### 🧰 Tooling & DevOps
 
-### [Code Build Education](https://code-build-education-front-end.vercel.app/en )
-#### Realizado con NextJS,Python,NodeJs,MongoDB,Tailwindcss,DaisyUI
-Es el proyecto de tesis de grado que consta de una plataforma de educacion para el lenguaje de programacion python con el objetivo de ayudar a las personas a aprender intuitivamente y facilmente con el apoyo de inteligencia artificial,analisis de codigos,recomendaciones,analsis de tipos de datos y seguridad al respecto de los algoritmos que estan construyendo los usuarios. 
-
-### [Store Cards](https://storecardsproject.onrender.com/)
-#### Realizado con Django,Python,Postgresql,Html,Tailwindcss
-Es un proyecto en el cual consta de una tienda de cartas relacionas con el mundo de los tcg para ayudar a presentar un catalogo de productos y administrarlos facilmente mediante el sistema de inventario que esta implementado. 
-
-### [Inter Munic Connect](https://inter-muni-connect-frontend.vercel.app/home)
-#### Realizado con Ionic,ReactJS,NodeJS,MongoDB,CSS
-Es un proyecto consta con la emulacion de un sistema de ventas de tiquetes para viajes intermunicipales en las regiones, genera tiquetes, verifica tiquetes,tienen la capacidad de crear usaurios de tipo conductor y pasajero los cuales interactuan de diferente manera en el sistema, el sistema tiene la capacidad de generar rutas y mostrarlas en mapas para cada viaje, ademas de agregar el pasajero al viaje correspondiente creado por el conductor, por otra parte es un sistema hibrido que se puede usar en dispositivos Androi,IOS y web.
-
-### [Landing Tesla](https://landing-tesla-nine.vercel.app/)
-#### Realizado con AstroJS,Javascript,Tailwindcss
-Es una landing page teniendo algo de similitud a la de tesla no es exactamente igual, la finalidad es mostrar que Astro es una excelente herramienta para crear sitios web enfocados en el contenido.
-
-### [Minimalist Portfolio Json](https://minimalist-portfolio-json-peach.vercel.app/)
-#### Realizado con AstroJS,Javascript,CSS
-Es una pagina en la cual expongo mis habilidades en desarrollo de software y hablo un poco sobre mi y mis experiencias trabajando como desarrollador full stack, esta pagina cuenta con unas funcionalidad de impresion de el portafolio.
-
-### [Pagina de Heroes](https://page-of-heroes.vercel.app/heroes)
-#### Realizado con Ionic,ReactJS,CSS,NodeJS,MongoDB
-Es una pagina en la cual creo la posibilidade de apreciar unos heroes ficticios y otros reales, donde se puede navegar en una galeria de heroes y ver los detalles de cada uno de ellos, ademas cuenta con la funcionalidad de buscar algun heroe en especifico que pertenezca en los datos.
-
-### [Store PC Gaming](https://store-pc-gaming-front-end.vercel.app/)
-#### Realizado con Ionic,ReactJS,CSS,NodeJS,SupaBase,Postgresql
-Es un proyecto creado con la finalidad de ser un sitio web y movile en el cual se puedan comprar productos relacionados con computadoras, es un e-commerce para productos con la capacidad de mostrar los productos,buscarlos,agregarlos a un carrito de compras y usar una pasarela de pagos para realizar las compras el usuario.
-
-## Estadísticas de GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacksjuandavid&show_icons=true&theme=dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacksjuandavid&theme=highcontrast)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacksjuandavid&layout=compact)
-
-## Year 2023 contribution
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1091487908407554178/1192237471585550407/hacksJuanDavid.png?ex=65a858ab&is=6595e3ab&hm=a2a51996c89c6b2e4c47d97794e800666120f29b2ea6796645f2de99bbafcb1c&=&format=webp&quality=lossless&width=959&height=614" alt="Year2023" width="400"/>
+<p>
+  <img src="https://cdn.simpleicons.org/bitbucket" alt="Bitbucket" width="38" />
+  <img src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" width="38" />
+  <img src="https://cdn.simpleicons.org/gitlab" alt="GitLab" width="38" />
+  <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" width="38" />
+  <img src="https://cdn.simpleicons.org/jenkins" alt="Jenkins" width="38" />
+  <img src="https://cdn.simpleicons.org/anaconda" alt="Conda/Anaconda" width="38" />
+  <img src="https://cdn.simpleicons.org/yarn" alt="Yarn" width="38" />
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="38" />
+  <img src="https://cdn.simpleicons.org/apachekafka/000/fff" alt="Kafka" width="38" />
 </p>
 
-## Contacto
+### 📱 Mobile
 
-Contactame por medio:
-<p align="left">
-  <a href="https://www.instagram.com/poca_lith/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="URL_WHATSAPP"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="URL_TELEGRAM"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:josuacoty000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+<p>
+  <img src="https://cdn.simpleicons.org/android" alt="Android" width="38" />
+  <img src="https://cdn.simpleicons.org/ios" alt="iOS" width="38" />
+  <img src="https://cdn.simpleicons.org/xcode" alt="Xcode" width="38" />
+  <img src="https://cdn.simpleicons.org/flutter" alt="Flutter" width="38" />
 </p>
 
-¡Gracias por visitar mi perfil!
+### 📝 Documentation
+
+<p>
+ <img src="https://cdn.simpleicons.org/markdown/000/fff" alt="Markdown" width="38" />
+ <img src="https://cdn.simpleicons.org/uml/000/fff" alt="UML" width="38" />
+ <img src="https://cdn.simpleicons.org/mermaid/000/fff" alt="Mermaid" width="38" />
+ <img src="https://cdn.simpleicons.org/diagramsdotnet/000/fff" alt="Diagrams" width="38" />
+</p>
+
+### 🖥️ IDEs
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="Rider" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" alt="GoLand" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="38"/>
+</p>
+
+---
+
+## Architecture & Practices
+
+1. **Clean Code & SOLID**
+2. **Monoliths** (when they are the pragmatic choice)
+3. **Microservices** with clear boundaries and contracts
+4. **Modular monolith** and **package‑based** structuring
+5. **Hexagonal / Ports & Adapters**
+6. **Component‑driven** and **feature‑based** organization
+7. **Use‑case oriented** services ("tell, don’t ask")
+8. **Automated workflows** (CI/CD, code quality, delivery)
+9. **Cloud integrations** (AWS, GCP, Azure, etc.)
+
+---
+
+## Skill snapshot (self‑assessment)
+
+- **Advanced**: JavaScript/TypeScript, React & Next.js, Node.js/Express, Python, Git, CI/CD basics, Docker.
+- **Intermediate**: Go, Rust, C#, PostgreSQL, MongoDB, Redis, Kubernetes, Azure/AWS.
+- **Growing**: LLMs & RAG systems, MLOps/LLMOps, streaming with Kafka, async workers.
+
+> Looking for opportunities to collaborate on **AI‑heavy products**, **data‑driven platforms**, and **developer tooling**.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hacksjuandavid&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacksjuandavid&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## Contact
+
+<p align="left" id="contact">
+  <a href="URL_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="URL_WHATSAPP"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="URL_TELEGRAM"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:jdjimeneza1@correo.usbcali.edu.co"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+</p>
+
+---
