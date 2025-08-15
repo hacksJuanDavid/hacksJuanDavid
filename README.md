@@ -185,7 +185,7 @@ I design and ship **web apps, APIs, data services, and integrations**. From MVPs
 
 <p>
   <img src="https://cdn.simpleicons.org/android" alt="Android" width="38" />
-  <img src="https://cdn.simpleicons.org/ios" alt="iOS" width="38" />
+  <img src="https://cdn.simpleicons.org/ios/000/fff" alt="iOS" width="38" />
   <img src="https://cdn.simpleicons.org/xcode" alt="Xcode" width="38" />
   <img src="https://cdn.simpleicons.org/flutter" alt="Flutter" width="38" />
 </p>
